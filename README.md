@@ -1,4 +1,4 @@
-# loops-in-python
+# forloops-in-python
 There are python program based on loops.
 It includes examples of for loops and while loops used to solve different problems like patterns,number opertions,and logic biulding.
 
